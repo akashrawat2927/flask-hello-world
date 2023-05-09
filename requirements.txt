@@ -5,4 +5,6 @@ opencv-python
 joblib
 requests
 requests-toolbelt
-
+scikit-learn
+scipy
+httplib2
